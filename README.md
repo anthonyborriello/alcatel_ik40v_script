@@ -33,6 +33,8 @@ This project is licensed under the MIT License.
 ## Contribution
 Feel free to submit issues or pull requests to improve this project.
 
+![alcatel_read](https://github.com/user-attachments/assets/60175020-9269-4c08-834b-b3941ae5486a)
+
 ---
 
 Made with ❤️ for Alcatel device users.
