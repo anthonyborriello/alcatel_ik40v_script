@@ -28,6 +28,13 @@ python alcatel_sms_chacker.py
 ## Configuration
 Modify the `URL` variable in the script if your device has a different API endpoint.
 
+## Network status check
+In addition to the SMS storage checker, I've also created a script to monitor the network status of your Alcatel device.  
+You can download and use it with the following command:
+```sh
+wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_network_check.py
+```
+
 ## Related Projects
 If you are looking for a script that sends SMS using the same Alcatel IK40V modem, check out [IK40V_SMS](https://github.com/rmappleby/IK40V_SMS).
 
