@@ -22,7 +22,7 @@ wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/mai
 ## Usage
 Run the script with:
 ```sh
-python alcatel_sms_chacker.py
+python alcatel_sms_checker.py
 ```
 
 ## Configuration
