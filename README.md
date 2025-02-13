@@ -16,7 +16,7 @@ Currently, it only checks for unread messages and reports and provides warnings 
 ## Installation
 Download the python script:
 ```sh
-wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_sms_chacker.py
+wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_sms_checker.py
 ```
 
 ## Usage
