@@ -1,6 +1,7 @@
 # Alcatel SMS Storage Checker
 
 This script retrieves and analyzes the SMS storage status of an Alcatel device via its web API.
+Currently, it only checks for unread messages and reports and provides warnings if storage is almost full.
 
 ## Features
 - Retrieves SMS storage details from the device.
