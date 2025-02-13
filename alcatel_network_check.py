@@ -32,17 +32,17 @@ HEADERS = {
     "Referer": "http://ik40.home/default.html",
 }
 
-# JSON request to get the system status (which includes all parameters)
-JSON_GETSYSTEMSTATUS_REQUEST = {
+# JSON request to get the network status
+JSON_GETNETWORKSTATUS_REQUEST = {
     "jsonrpc": "2.0",
     "method": "GetSystemStatus",
     "params": {},
     "id": "1"
 }
 
-def get_system_status():
+def get_network_status():
     # Send a POST request to the device
-    r = requests.post(URL, json=JSON_GETSYSTEMSTATUS_REQUEST, headers=HEADERS)
+    r = requests.post(URL, json=JSON_GETNETWORKSTATUS_REQUEST, headers=HEADERS)
 
     # Check for response errors
     if r.status_code != 200:
@@ -59,4 +59,4 @@ def get_system_status():
     print(json.dumps(response_json, indent=4))
 
 if __name__ == "__main__":
-    get_system_status()
+    get_network_status()
