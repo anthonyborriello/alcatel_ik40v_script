@@ -27,6 +27,9 @@ python alcatel_sms_chacker.py
 ## Configuration
 Modify the `URL` variable in the script if your device has a different API endpoint.
 
+## Related Projects
+If you are looking for a script that sends SMS using the same Alcatel IK40V modem, check out [IK40V_SMS](https://github.com/rmappleby/IK40V_SMS).
+
 ## License
 This project is licensed under the MIT License.
 
