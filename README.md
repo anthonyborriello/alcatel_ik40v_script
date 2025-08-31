@@ -1,13 +1,11 @@
-# Alcatel SMS Storage Checker
-
-This script retrieves and analyzes the SMS storage status of an Alcatel device via its web API.
-Currently, it only checks for unread messages and reports and provides warnings if storage is almost full.
+# Alcatel SMS Read & Delete Tool
+This script can read, delete individual SMS, or delete it all at once.
 
 ## Features
-- Retrieves SMS storage details from the device.
-- Displays the number of stored, unread, and available SMS slots.
-- Warns when storage is almost full or completely used.
-- Alerts if there are unread SMS messages or reports.
+- Read SMS messages per contact.
+- Delete individual messages.
+- Delete all SMS messages from all contacts.
+- Quick exit with q from any menu.
 
 ## Requirements
 - Python 3
@@ -16,20 +14,20 @@ Currently, it only checks for unread messages and reports and provides warnings 
 ## Installation
 Download the python script:
 ```sh
-wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_sms_checker.py
+wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_read_delete_sms.py
 ```
 
 ## Usage
 Run the script with:
 ```sh
-python alcatel_sms_checker.py
+python alcatel_read_delete_sms.py
 ```
 
 ## Configuration
 Modify the `URL` variable in the script if your device has a different API endpoint.
 
-## Network status check
-In addition to the SMS storage checker, I've also created a script to monitor the network status of your Alcatel device.  
+## Network status check and simple storage checker
+In addition to the SMS Reand and Delete script, I've also created a script to monitor the network status of your Alcatel device.  
 You can download and use it with the following command:
 ```sh
 wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_network_check.py
