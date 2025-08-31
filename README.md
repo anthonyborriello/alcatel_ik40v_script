@@ -32,6 +32,9 @@ You can download and use it with the following command:
 ```sh
 wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_network_check.py
 ```
+```sh
+wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_sms_checker.py
+```
 
 ## Related Projects
 If you are looking for a script that sends SMS using the same Alcatel IK40V modem, check out [IK40V_SMS](https://github.com/rmappleby/IK40V_SMS).
