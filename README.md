@@ -62,7 +62,8 @@ wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/mai
 ```
 
 ## Related Projects
-For sending SMS using the Alcatel IK40V modem, see [IK40V_SMS](https://github.com/rmappleby/IK40V_SMS).
+For sending SMS using the Alcatel IK40V modem, see [IK40V_SMS](https://github.com/rmappleby/IK40V_SMS).  
+Special acknowledgment to rmappleby, who was fundamental for this script: thanks to his guidance, I understood where to look in the API to develop this tool.
 
 ## License
 This project is licensed under the MIT License.
