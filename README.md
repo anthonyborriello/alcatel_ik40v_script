@@ -1,5 +1,6 @@
 # Alcatel SMS Read & Delete Tool
-This script can read, delete individual SMS, or delete all at once.
+This script allows you to read SMS, delete individual ones, or remove all at once from the command line.  
+It works with the Alcatel IK40V Link Key USB dongle.
 
 ## Features
 - Read SMS messages per contact.
