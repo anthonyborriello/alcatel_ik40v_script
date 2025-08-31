@@ -42,7 +42,7 @@ This project is licensed under the MIT License.
 ## Contribution
 Feel free to submit issues or pull requests to improve this project.
 
-![alcatel_read](https://github.com/user-attachments/assets/60175020-9269-4c08-834b-b3941ae5486a)
+![alcatel_ik40v_read_delete](https://github.com/user-attachments/assets/4480953c-98f9-4ab0-ac68-20acdb83591e)
 
 ---
 
