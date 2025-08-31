@@ -27,8 +27,7 @@ python alcatel_read_delete_sms.py
 Modify the `URL` variable in the script if your device has a different API endpoint.
 
 ## Network status check and simple storage checker
-In addition to the SMS Reand and Delete script, I've also created a script to monitor the network status of your Alcatel device and another one to rapidly check if you have new messages.  
-You can download and use it with the following command:
+In addition to the SMS Read and Delete script, I've also created a script to monitor the network status of your Alcatel device and another one to rapidly check if you have new messages:
 ```sh
 wget https://raw.githubusercontent.com/anthonyborriello/alcatel_ik40v_script/main/alcatel_network_check.py
 ```
