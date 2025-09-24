@@ -76,5 +76,4 @@ Feel free to submit issues or pull requests to improve this project.
 
 ---
 
-Made with 💪 for Alcatel device users.
 
