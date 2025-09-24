@@ -74,6 +74,5 @@ Feel free to submit issues or pull requests to improve this project.
 
 ![alcatel_ik40v_read_delete](https://github.com/user-attachments/assets/4480953c-98f9-4ab0-ac68-20acdb83591e)
 
----
 
 
